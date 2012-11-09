@@ -1,7 +1,25 @@
 /* mobile */
 
-@media only screen and (max-width: 640px) {
+@media only screen and (max-width: 1023px) {
 
+	p {
+
+		font-size: 24px;
+		line-height: 36px;
+
+	}
+
+
+	h1 {
+
+		font-size:36px;
+
+	}
+
+	h2 {
+
+		font-size: 32px;
+	}
 
 
 }

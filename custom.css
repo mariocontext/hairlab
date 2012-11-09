@@ -199,7 +199,7 @@ h1.page_head{ color:#424242;margin:0 0 12px; line-height:normal;}
 h2{
 
   font-size:16px;
-  margin-top: 1.5em;
+  margin-top: 0;
 	/*line-height:1em;*/
 	color: #066;
 
@@ -2243,6 +2243,12 @@ nav.oldernewer {
 /* Portfolio
 
 ---------------------------------------- */
+
+.post-611 h2 { /* photo section */
+
+margin-top: 1.5em;
+
+}
 
 .latestwork {
 
