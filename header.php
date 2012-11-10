@@ -48,6 +48,7 @@
 
 	<meta charset="<?php bloginfo( 'charset' ); ?>" />
 
+
 	<link rel="shortcut icon" type="image/x-icon" href="http://hairlab.net/favicon.ico">
 
 	<link rel="profile" href="http://gmpg.org/xfn/11" />
