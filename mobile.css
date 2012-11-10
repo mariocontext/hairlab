@@ -51,6 +51,8 @@
 
 	}
 
+	/*
+
 	nav.primary {
 		background: #333;
 		margin: 40px 0px;
@@ -61,16 +63,19 @@
 
 	.sf-menu li {
 
-		margin-right: 20px;
+		margin-right: 15px;
 		font-size:	20px;
 
 	}
 
 	#wrapper {
 
-		margin-top: 40px;
+		top: 40px;
+		position:relative;
 
 	}
+
+	*/
 
 
 }
